@@ -2,7 +2,12 @@
 
 A Python-based transaction analytics engine that decodes 6 months of messy Indian bank data into actionable spending insights, anomaly alerts, and personality archetypes.
 
-![SpendDNA Final Report Output](Screenshot_2026-09-02_130031.png)
+##First Output with Leak Categorization
+<img width="575" height="810" alt="Screenshot 2026-09-01 233752" src="https://github.com/user-attachments/assets/03c9ba7a-0efe-45f4-87be-896fb1048258" />
+
+##Second Ouput: Successfully Eliminating the Leak
+<img width="539" height="810" alt="Screenshot 2026-09-02 130031" src="https://github.com/user-attachments/assets/56350ba5-d137-4af4-b870-1f4a2327cfc2" />
+
 
 ## Overview & Purpose
 
