@@ -1,7 +1,8 @@
 ##**SpendDNA: Your Wallet's Year-End Story**##
+
 A Python-based transaction analytics engine that decodes 6 months of messy Indian bank data into actionable spending insights, anomaly alerts, and personality archetypes.
 
-The Project
+***The Project***
 SpendDNA is a fintech analytics tool built to mirror the daily data-cleaning and categorization work done at companies like Cred, Slice, and Jupiter. Taking a raw, unformatted 6-month transaction export for a synthetic persona (Rahul Sharma), this engine cleans the data, resolves hundreds of messy payment gateway abbreviations into canonical merchants, and outputs a clean, ASCII-based analytical report—often described as "Spotify Wrapped for your money."
 
 Key Achievements:
